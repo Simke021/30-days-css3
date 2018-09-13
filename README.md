@@ -2,3 +2,5 @@
 css challenge - 30 days
 
 1. Fancy Buttons
+2. Sexy Typography
+
